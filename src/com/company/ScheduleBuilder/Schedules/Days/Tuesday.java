@@ -1,4 +1,6 @@
 package com.company.ScheduleBuilder.Schedules.Days;
 
-public class Tuesday {
+import com.company.ScheduleBuilder.Schedules.DayOfWeek;
+
+public class Tuesday extends DayOfWeek {
 }
